@@ -6,4 +6,4 @@ slack username: deedan19
 
 track: mobile 
 
-course: flutter
+course: flutter 
